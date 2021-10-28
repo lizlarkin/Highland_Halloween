@@ -1,18 +1,31 @@
 h1 {
-    text-align: center;
-    font-family: creepster;
+  text-align: center;
+  font-family: creepster;
 }
 
 .lead {
-    text-align: center;
+  text-align: center;
 }
 
 .btn {
-    width: 150px;
-    margin-bottom: 15px;
-    margin-left: 30px;
+  width: 150px;
+  margin-bottom: 15px;
+  margin-left: 30px;
 }
 
-h2 {
-    font-family: nosifer;
+h2,
+h3 {
+  text-align: center;
+  font-family: nosifer;
+}
+
+h4 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
